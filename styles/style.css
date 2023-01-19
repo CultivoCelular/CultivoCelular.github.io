@@ -1,0 +1,30 @@
+html{
+font-family: 'Open Sans', sans-serif;
+background-color:aliceblue;
+}
+h1 {
+  font-size: 103px;
+  text-align: center;
+  color: white;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 28px;
+  text-align: center;
+  color: white;
+}
+h3 {
+  font-size: 50px;
+  text-align: center;
+  color: darkslategrey;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: skyblue;
+  padding: 0 10px 10px 10px;
+  border: 1px solid black;
+}
